@@ -11,6 +11,7 @@ If you have a better solution - let us all know with a pull request.
 No  | Course
 ------------- | -------------
 1. | Find whether a number is a numeric palindrome
+2. | Find whether a string is a palindrome
 
 
 ### Licensing
