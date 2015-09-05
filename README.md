@@ -12,6 +12,7 @@ No  | Course
 ------------- | -------------
 1. | Find whether a number is a numeric palindrome
 2. | Find whether a string is a palindrome
+3. | Find whether a string has all unique characters 
 
 
 ### Licensing
