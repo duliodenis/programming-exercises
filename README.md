@@ -13,7 +13,8 @@ No  | Course
 1. | Find whether a number is a numeric palindrome
 2. | Find whether a string is a palindrome
 3. | Find whether a string has all unique characters 
-4. | (Fizz)Multiples of 3 (Buzz)Multiples of 5 (FizzBuzz) 3 & 5 
+4. | (Fizz)Multiples of 3 (Buzz)Multiples of 5 (FizzBuzz) 3 & 5
+5. | Find the missing numbers in an array 
 
 
 ### Licensing
