@@ -15,6 +15,7 @@ No  | Course
 3. | Find whether a string has all unique characters 
 4. | (Fizz)Multiples of 3 (Buzz)Multiples of 5 (FizzBuzz) 3 & 5
 5. | Find the missing numbers in an array 
+6. | Find the longest word in a sentence ignoring punctuations  
 
 
 ### Licensing
