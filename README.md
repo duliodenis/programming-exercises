@@ -3,7 +3,7 @@ Programming Exercises
 ![](https://raw.githubusercontent.com/duliodenis/programming-exercises/master/art/fox-and-goose.jpg)
 
 This repository is a collection of my solutions to classic programming exercises. 
-They are in both [C](http://www.cprogramming.com/whyc.html) and JavaScript.
+They are in both [C](http://www.cprogramming.com/whyc.html) and [JavaScript](http://speakingjs.com/es5/ch02.html).
 
 Please take the time, without interruption, to try the exercises before looking at my solutions using the theory that greatness comes from practicing; applying the theory over and over again, using feedback to get better every time. 
 
@@ -18,6 +18,7 @@ No  | Course
 5. | Find the missing numbers in an array 
 6. | Find the longest word in a sentence ignoring punctuations  
 7. | Manipulate characters in a string based off their positions in the alphabet
+8. | Add all the numbers from 1 to a certain argument
 
 
 ### Licensing
