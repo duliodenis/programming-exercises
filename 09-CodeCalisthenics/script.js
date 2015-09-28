@@ -79,3 +79,26 @@ console.log("[14, 15, 24, 25, 34, 35] = " + combinations(array1, array2));
 var array3 = ["1", "2"];
 var array4 = ["3", "4", "5"];
 console.log("[13, 14, 15, 23, 24, 25] = " + combinations(array3, array4));
+
+
+// Primes: Write a method which takes in a number and returns true if it is a prime number.
+
+var isPrime = function(n) {
+    // check if n is divisible by 2 or 3
+    if (n % 2 == 0 || n % 3 == 0) return false;
+    
+    // check only the odd divisors that are not multiples of 3 under sqrt(n)
+    var m = Math.sqrt(n);
+    for (var i = 5; i <= m; i+=6) {
+        if (n % i     == 0) return false;
+        if (n % (i+2) == 0) return false;
+    }
+    
+    return true;
+}
+
+// Test Cases
+console.log("7 is prime = true = " + isPrime(7));
+console.log("9 is not prime = false = " + isPrime(9));
+console.log("98764321261 is a prime = true = " + isPrime(98764321261));
+console.log("2047 is not prime = false = " + isPrime(2047));

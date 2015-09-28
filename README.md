@@ -19,7 +19,7 @@ No  | Course
 6. | Find the longest word in a sentence ignoring punctuations  
 7. | Manipulate characters in a string based off their positions in the alphabet
 8. | Add all the numbers from 1 to a certain argument
-9. | Power, factorial, Uniques, Combinations, Primes, Rectangle Overlap
+9. | Power, Factorial, Uniques, Combinations, Primes, Rectangle Overlap
 
 ### Licensing
 My solutions to these programming exercises are licensed under [the MIT License](https://github.com/duliodenis/programming-exercises/blob/master/LICENSE).
